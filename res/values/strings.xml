@@ -6,9 +6,9 @@
     <string name="tab_name_HD2">HD2 Channel</string>
     <string name="tab_name_podcasts">Podcasts</string>
     <string name="tab_name_info">Options</string>
-    <string name="stream_url_HD1">http://live.streamtheworld.com:80/WXYZFMMOBILECMP3</string>
-    <string name="stream_url_HD2">http://live.streamtheworld.com:80/WXYZHD2MP3</string>
-    <string name="stream_pls_HD1">http://playerservices.streamtheworld.com/pls/WXYZFMMOBILE.pls</string>
+    <string name="stream_url_HD1">http://djs.hive365.co.uk:8088/autodj</string>
+    <string name="stream_url_HD2">http://djs.hive365.co.uk:8088/live</string>
+    <string name="stream_pls_HD1">http://hive365.co.uk/players/playlist.pls</string>
     <string name="stream_pls_HD2">http://playerservices.streamtheworld.com/pls/WXYZHD2.pls</string>
     <string name="button_control_play">Play</string>
     <string name="button_control_pause">Pause</string>
